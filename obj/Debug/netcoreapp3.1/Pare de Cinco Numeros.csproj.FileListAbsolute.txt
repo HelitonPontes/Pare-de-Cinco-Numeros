@@ -1,0 +1,11 @@
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.exe
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.deps.json
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.runtimeconfig.json
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.runtimeconfig.dev.json
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.dll
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\bin\Debug\netcoreapp3.1\Pare de Cinco Numeros.pdb
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\obj\Debug\netcoreapp3.1\Pare de Cinco Numeros.csprojAssemblyReference.cache
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\obj\Debug\netcoreapp3.1\Pare de Cinco Numeros.AssemblyInfoInputs.cache
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\obj\Debug\netcoreapp3.1\Pare de Cinco Numeros.AssemblyInfo.cs
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\obj\Debug\netcoreapp3.1\Pare de Cinco Numeros.dll
+C:\Users\Heliton\Source\Repos\Pare de Cinco Numeros\obj\Debug\netcoreapp3.1\Pare de Cinco Numeros.pdb
